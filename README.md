@@ -1,2 +1,2 @@
 # ejemplo
-ejemplo para practica de git y github
+ejemplo para práctica de git y github
